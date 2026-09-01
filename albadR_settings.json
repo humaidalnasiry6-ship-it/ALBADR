@@ -1,0 +1,379 @@
+{
+  "version": 5,
+  "app_name": "ALBADR | البدر",
+  "app_subtitle": "ALBADR | البدر",
+  "home_title": "مركز نجران",
+  "home_subtitle": "اختر الخدمة التي تريد استخدامها",
+  "designer": "Designed by / WAD_ALLAH ANASIRY",
+  "designer_ar": "تصميم / وعد الله",
+  "contact": "للتواصل | 774353867",
+  "home_logo_path": "/storage/emulated/0/ALBADR/report_assets/home_logo_20260818192853.jpg",
+  "home_logo_enabled": true,
+  "fields": [
+    {
+      "key": "name",
+      "label": "الاسم الرباعي",
+      "required": true,
+      "enabled": true,
+      "long": false,
+      "layout": 1,
+      "system": false,
+      "date": false
+    },
+    {
+      "key": "jihad_name",
+      "label": "الاسم الجهادي",
+      "required": false,
+      "enabled": true,
+      "long": false,
+      "layout": 2,
+      "system": false,
+      "date": false
+    },
+    {
+      "key": "military_number",
+      "label": "الرقم العسكري",
+      "required": false,
+      "enabled": true,
+      "long": false,
+      "layout": 2,
+      "system": false,
+      "date": false
+    },
+    {
+      "key": "supervisor_general",
+      "label": "المشرف العام",
+      "required": false,
+      "enabled": true,
+      "long": false,
+      "layout": 2,
+      "system": false,
+      "date": false
+    },
+    {
+      "key": "supervisor_direct",
+      "label": "المشرف المباشر",
+      "required": false,
+      "enabled": true,
+      "long": false,
+      "layout": 2,
+      "system": false,
+      "date": false
+    },
+    {
+      "key": "injury",
+      "label": "الإصابة",
+      "required": false,
+      "enabled": true,
+      "long": false,
+      "layout": 2,
+      "system": false,
+      "date": false
+    },
+    {
+      "key": "injury_type",
+      "label": "نوع الإصابة",
+      "required": false,
+      "enabled": true,
+      "long": false,
+      "layout": 2,
+      "system": false,
+      "date": false
+    },
+    {
+      "key": "injury_date",
+      "label": "تاريخ الإصابة",
+      "required": false,
+      "enabled": true,
+      "long": false,
+      "layout": 2,
+      "system": false,
+      "date": true
+    },
+    {
+      "key": "procedures",
+      "label": "الإجراءات",
+      "required": false,
+      "enabled": true,
+      "long": true,
+      "layout": 1,
+      "system": false,
+      "date": false
+    },
+    {
+      "key": "front",
+      "label": "الجبهة",
+      "required": false,
+      "enabled": true,
+      "long": false,
+      "layout": 2,
+      "system": false,
+      "date": false
+    },
+    {
+      "key": "hospital",
+      "label": "المستشفى",
+      "required": true,
+      "enabled": true,
+      "long": false,
+      "layout": 2,
+      "system": false,
+      "date": false
+    },
+    {
+      "key": "registration_date",
+      "label": "تاريخ التسجيل",
+      "required": true,
+      "enabled": true,
+      "long": false,
+      "layout": 1,
+      "system": true,
+      "date": true
+    },
+    {
+      "key": "result",
+      "label": "النتيجة",
+      "required": false,
+      "enabled": true,
+      "long": true,
+      "layout": 2,
+      "system": false,
+      "date": false
+    },
+    {
+      "key": "status",
+      "label": "الحالة",
+      "required": false,
+      "enabled": true,
+      "long": false,
+      "layout": 2,
+      "system": false,
+      "date": false
+    },
+    {
+      "key": "nots",
+      "label": "ملاحظة",
+      "required": false,
+      "enabled": true,
+      "long": false,
+      "layout": 2,
+      "system": false,
+      "date": false
+    },
+    {
+      "key": "return_date",
+      "label": "تاريخ العودة",
+      "required": false,
+      "enabled": true,
+      "long": false,
+      "layout": 2,
+      "system": false,
+      "date": true
+    }
+  ],
+  "report": {
+    "title": "التقرير السنوي لبيانات والجرحى والمرضى  لعام 1447هجري",
+    "cover_title": "تقرير بيانات السجلات",
+    "cover_lines": [
+      "تقرير رسمي للبيانات",
+      "hdhddbd",
+      "jdjdjdj"
+    ],
+    "cover_body": "",
+    "left_lines": [
+      "التاريخ       /       /1447هجري",
+      "الموافق     /       /2025ميلادي",
+      "رقم.  [   ]",
+      "الكود<#*###*#>"
+    ],
+    "center_lines": [
+      "بسم الله الرحمن الرحيم"
+    ],
+    "right_lines": [
+      "الجمهورية اليمنيه",
+      "وزارة الدفاع",
+      "دائرة الخدمات الطبيه",
+      "القسم الصحي"
+    ],
+    "header_visible": true,
+    "footer_visible": true,
+    "header_logo_visible": true,
+    "cover_rows": [
+      "التقرير السنوي لعمليات القسم الصحي للحالات المبلغة من الجرحى",
+      "والمرضى العام",
+      "14447 هجري للواء 82 مشاة",
+      "الأخ القائد اللواء 82 مشاة",
+      "السلام عليكم ورحمة الله وبركاته",
+      "يمديكم القسم الصحي باللواء 82 معاه الطيب التحايا والتقدير",
+      "اننا ومن خلال هذا التقرير السنوي بفضل الله وتوفيقة نحيطكم علما بما قد تم",
+      "انجازه من بلاغات ومتابعتها حيث وقد بلغ عدد الحالات المبلغة من الجرحى والمرضى",
+      "العام 1447 هجري 307 ثلاثمائة وسبعة من الحالات",
+      "من كافة الجبهات والمواقع",
+      "مرفق لكم يكشف توضيحي"
+    ],
+    "cover_position": 0.5,
+    "cover_visible": true,
+    "cover_orientation": "portrait",
+    "data_orientation": "landscape",
+    "header_line_color": "D8B24A",
+    "table_header_color": "BFE7F5",
+    "table_text_color": "111111",
+    "cover_text_color": "111111",
+    "header_text_color": "111111",
+    "footer_text_color": "111111",
+    "font_name": "NotoSansArabic",
+    "cover_font_size": 13,
+    "footer_font_size": 9.0,
+    "header_left_size": 11,
+    "header_center_size": 12,
+    "header_right_size": 11,
+    "footer_left": "المختص",
+    "footer_center": "------",
+    "footer_right": "",
+    "page_numbers": true,
+    "table_orientation": "landscape",
+    "selected_fields": [
+      "name",
+      "jihad_name",
+      "military_number",
+      "supervisor_general",
+      "injury",
+      "injury_type",
+      "injury_date",
+      "hospital",
+      "result",
+      "status"
+    ],
+    "font_size": 11.0,
+    "label_font_size": 9.0,
+    "header_font_size": 16.0,
+    "title_font_size": 16.0,
+    "cover_title_size": 22.0,
+    "cover_text_size": 13.0,
+    "border_width": 0.8,
+    "header_bold": true,
+    "logo_path": "/storage/emulated/0/ALBADR/report_assets/logo_20260819001617.jpg",
+    "separator": true,
+    "report_counter": 32,
+    "report_number_prefix": "ALB",
+    "password": "ALBDR1",
+    "margins_mm": 10.0,
+    "table_header_repeat": true,
+    "cell_label_background": true,
+    "orientation": "landscape",
+    "page_size": "A4",
+    "show_created_at": false,
+    "header_alignment": "center",
+    "table_alignment": "right",
+    "auto_report_number": true,
+    "alternate_rows": true,
+    "page1_orientation": "portrait",
+    "page1_show_header": true,
+    "page1_show_footer": true,
+    "data_show_header": true,
+    "data_show_footer": true,
+    "header": {
+      "left": [
+        "الجمهورية اليمنية",
+        "وزارة الدفاع",
+        "دائرة الخدمات الطبية"
+      ],
+      "center": [
+        "بسم الله الرحمن الرحيم"
+      ],
+      "right": [
+        "التاريخ: {today}",
+        "الموافق: {today}",
+        "رقم: {number}"
+      ],
+      "logo": "",
+      "show": true
+    },
+    "footer": {
+      "left": [
+        "المسؤول / __________"
+      ],
+      "center": [
+        "صفحة {page} من {pages}"
+      ],
+      "right": [
+        "تاريخ الإصدار: {today}"
+      ],
+      "show": true
+    },
+    "body_rows": [
+      "الأخ / ____________________ المحترم",
+      "تحية طيبة وبعد...",
+      "نرفع إليكم التقرير التالي:",
+      "بلغ عدد الحالات خلال الفترة المحددة: {count}",
+      "وتفضلوا بقبول فائق الاحترام والتقدير.",
+      "مع خالص التحية"
+    ],
+    "body_position": 50,
+    "font_color": "#111111",
+    "bold": false,
+    "align": "center",
+    "table_font_size": 8,
+    "table_header_bg": "#BFE7F5",
+    "table_border_color": "#666666",
+    "table_header_bold": true,
+    "intro_enabled": true,
+    "intro_text": "",
+    "number_counter": 0,
+    "number_prefix": "",
+    "number_year_mode": "hijri",
+    "editor_styles": {
+      "stamp_text": {
+        "bold": false,
+        "underline": false,
+        "size": 13.0,
+        "color": "D8B24A"
+      }
+    },
+    "footer_left_lines": [
+      "المختص",
+      "وعد الله النصيري"
+    ],
+    "footer_center_lines": [
+      "------",
+      "-------"
+    ],
+    "footer_right_lines": [
+      "",
+      ""
+    ],
+    "header_shift_percent": -3.3,
+    "organization_name": "",
+    "report_bold": false
+  },
+  "home_logo": "",
+  "edit_password": "ALBDR1",
+  "edit_failures": 0,
+  "home_cards": [
+    {
+      "key": "input",
+      "title": "إدخال البيانات",
+      "subtitle": "إضافة سجل جديد",
+      "enabled": true
+    },
+    {
+      "key": "records",
+      "title": "السجلات",
+      "subtitle": "بحث وعرض وتعديل وحذف السجلات",
+      "enabled": true
+    },
+    {
+      "key": "reports",
+      "title": "التقارير",
+      "subtitle": "تقارير PDF وWord وExcel",
+      "enabled": true
+    },
+    {
+      "key": "settings",
+      "title": "الإعدادات",
+      "subtitle": "إدارة النظام والنسخ الاحتياطي",
+      "enabled": true
+    }
+  ],
+  "backup_version": 2
+}
